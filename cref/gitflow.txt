@@ -1,0 +1,6 @@
+# code refs (gitflow)
+## create (echo str > filename)
+## stage (git add filename)
+## commit (git commit -m str)
+## push (git push)
+## status (git status)

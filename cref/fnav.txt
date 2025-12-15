@@ -1,0 +1,3 @@
+# code refs (file and dir nav)
+## change dir (cd loc)
+## list files & dirs (li [-l long] [-a all])
