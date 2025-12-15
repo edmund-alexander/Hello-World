@@ -1,1 +1,2 @@
 hello Edmund!
+step 1: make a file change (echo str >> to add or > new)
