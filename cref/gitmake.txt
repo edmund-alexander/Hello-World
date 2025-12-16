@@ -1,2 +1,3 @@
 # Create github
 create git branch (git checkout -b branch_name)
+merge from git branch into current (git merge branch_name)
