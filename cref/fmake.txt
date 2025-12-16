@@ -1,4 +1,4 @@
 # make dir, txt and files
-## make dir (mkdir dir_name_str)
-## make str pass to file (echo "str" [> new ovrw] or [>> new line])
-## remove dir (rmdir dir_loc)
+make dir (mkdir dir_name_str)
+make str pass to file (echo "str" [> new ovrw] or [>> new line])
+remove dir (rmdir dir_loc)

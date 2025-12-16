@@ -1,4 +1,5 @@
-# code refs (file and dir nav)
-## change dir (cd loc)
-## list files & dirs (li [-l long] [-a all])
-## print working dir to terminal (pwd)
+# nav dir and files
+change dir (cd loc)
+list files & dirs (li [-l long] [-a all])
+print working dir to terminal (pwd)
+print file to console (cat file_name)
