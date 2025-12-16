@@ -1,5 +1,0 @@
-hello Edmund!
-step 1: make a file change (echo str >> to add or > new)
-step 2: 'stage' or add (git add filename)
-step 3: commit changes (git commit filename -m str)
-step 4: push to git (git push)
