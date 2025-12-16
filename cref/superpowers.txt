@@ -1,0 +1,2 @@
+# Superuser stuff
+append to file via su (echo str | sudo tee -a filename)
