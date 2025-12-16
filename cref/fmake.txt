@@ -2,4 +2,4 @@
 make dir (mkdir dir_name_str)
 make str pass to file (echo "str" [> new ovrw] or [>> new line])
 remove dir (rmdir dir_loc)
-change dir or file perms (chmod [who][+/-][r/w/-])
+change dir or file perms (chmod [who][+/-][r/w/-] file_name)
