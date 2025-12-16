@@ -1,0 +1,2 @@
+# inspect dir and files
+inspect file or dir perms (ls -l file_name)
